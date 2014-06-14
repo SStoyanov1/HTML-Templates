@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\02. Dynamic Select\bin\_02.Dynamic_Select.dll.config
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\02. Dynamic Select\bin\_02.Dynamic_Select.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\02. Dynamic Select\bin\_02.Dynamic_Select.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\02. Dynamic Select\obj\Debug\_02.Dynamic_Select.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\02. Dynamic Select\obj\Debug\_02.Dynamic_Select.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\02. Dynamic Select\obj\Debug\_02.Dynamic_Select.pdb

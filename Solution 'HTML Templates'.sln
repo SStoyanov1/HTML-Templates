@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01.Courses_Program", "01. Courses Program\_01.Courses_Program.csproj", "{CB604083-2051-46A5-951E-62CA061B47C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.Dynamic_Select", "02. Dynamic Select\_02.Dynamic_Select.csproj", "{74569ABF-A2FD-4189-AA7D-0945140D6C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03. 04.jQuery_Plugin_for_ListView", "03. jQuery Plugin for ListView\_03. 04.jQuery_Plugin_for_ListView.csproj", "{CDB555C9-E2C1-484A-B9A2-5E7CE7D1836F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB604083-2051-46A5-951E-62CA061B47C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB604083-2051-46A5-951E-62CA061B47C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB604083-2051-46A5-951E-62CA061B47C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB604083-2051-46A5-951E-62CA061B47C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74569ABF-A2FD-4189-AA7D-0945140D6C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74569ABF-A2FD-4189-AA7D-0945140D6C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74569ABF-A2FD-4189-AA7D-0945140D6C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74569ABF-A2FD-4189-AA7D-0945140D6C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB555C9-E2C1-484A-B9A2-5E7CE7D1836F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB555C9-E2C1-484A-B9A2-5E7CE7D1836F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB555C9-E2C1-484A-B9A2-5E7CE7D1836F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB555C9-E2C1-484A-B9A2-5E7CE7D1836F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

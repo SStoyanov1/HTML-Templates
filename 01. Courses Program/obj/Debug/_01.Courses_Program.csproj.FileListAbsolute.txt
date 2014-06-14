@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\01. Courses Program\bin\_01.Courses_Program.dll.config
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\01. Courses Program\bin\_01.Courses_Program.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\01. Courses Program\bin\_01.Courses_Program.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\01. Courses Program\obj\Debug\_01.Courses_Program.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\01. Courses Program\obj\Debug\_01.Courses_Program.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Solution 'HTML Templates'\01. Courses Program\obj\Debug\_01.Courses_Program.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'HTML Templates'\03. jQuery Plugin for ListView\bin\_03.jQuery_Plugin_for_ListView.dll.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'HTML Templates'\03. jQuery Plugin for ListView\bin\_03.jQuery_Plugin_for_ListView.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'HTML Templates'\03. jQuery Plugin for ListView\bin\_03.jQuery_Plugin_for_ListView.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'HTML Templates'\03. jQuery Plugin for ListView\obj\Debug\_03. 04.jQuery_Plugin_for_ListView.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'HTML Templates'\03. jQuery Plugin for ListView\obj\Debug\_03.jQuery_Plugin_for_ListView.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'HTML Templates'\03. jQuery Plugin for ListView\obj\Debug\_03.jQuery_Plugin_for_ListView.pdb

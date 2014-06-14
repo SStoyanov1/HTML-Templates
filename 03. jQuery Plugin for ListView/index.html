@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>03. 04. jQuery Plugin for ListView</title>
+    <link href="styles/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <table>
+        <thead>
+            <tr><th>#</th><th>Name</th><th>Mark</th></tr>
+        </thead>
+        <tbody id="students-table">
+            <tr class="student-row">
+                <td>{{number}}</td>
+                <td>{{name}}</td>
+                <td>{{mark}}</td>
+            </tr>
+        </tbody>
+    </table>
+    <script id="students-row-template" type="text/x-handlebars-template">
+    </script>
+    <script src="Scripts/handlebars.min.js"></script>
+    <script src="Scripts/jquery-2.1.1.min.js"></script>
+    <script src="Scripts/listviewplugin.js"></script>
+    <script src="Scripts/script.js"></script>
+</body>
+</html>
